@@ -2,9 +2,9 @@
 Locally connecting two NodeMCU to communicate and send data from one network to other. This will enable a wireless remote connection between two devices without using Arduino with wifi module. 
 
 
-////////////////////////
+
 ///  Troubleshooting ///
-\\\\\\\\\\\\\\\\\\\\\\\\
+
 1) if the light is not turning on 
 Server----> Output
 Client----> Input
