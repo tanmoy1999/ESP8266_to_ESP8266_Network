@@ -19,8 +19,8 @@ Locally connecting two NodeMCU to communicate and send data from one network to 
 
 * else Interchange NodeMCU and Code
 
-ANY QURIES CONTACT
+### ANY QURIES CONTACT
 
----EmailID: tanmoymunshi1999@gmail.com ---
----https://www.linkedin.com/in/tanmoymunshi/ ----
+* EmailID: tanmoymunshi1999@gmail.com
+* https://www.linkedin.com/in/tanmoymunshi/
 
